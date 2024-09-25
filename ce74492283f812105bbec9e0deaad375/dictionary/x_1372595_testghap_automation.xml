@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3ce441a283f812105bbec9e0deaad32e" extends="task" label="automation" max_length="40" name="x_1372595_testghap_automation" type="collection"/>
+</database>
